@@ -1,4 +1,4 @@
 # HPC-PROJECT
-#hashem yasser youssif 231000770
-#youssef rabeay younes 231001982
-#malak
+#Hashem Yasser Youssif 231000770
+#Youssef Rabeay Younes 231001982
+#Malak Ahmed Mohamed 241002087
